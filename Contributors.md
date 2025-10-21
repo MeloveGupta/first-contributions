@@ -8,6 +8,7 @@ Prasit Sung
 - [cheefbird](https://github.com/cheefbird)
 - [Mayank Kashyap](https://github.com/oneglitchx)
 - [Prashant Singh](https://github.com/its-bnf-cwalker)
+- [Melove Gupta](https://github.com/MeloveGupta)
 - [Shreeganesh Nayak](https://github.com/Shreeganeshhere)
 - [Swati-Londhe](https://github.com/swati-londhe)
 - [Galan Kresna](https://github.com/glnKresna)
